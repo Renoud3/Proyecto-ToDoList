@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1602556130 source:c:\users\melil\desktop\proyecto estructura\hashmap.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+	"hashmap.h"
+
+1602556130 c:\users\melil\desktop\proyecto estructura\hashmap.h
+
+1602556130 source:c:\users\melil\desktop\proyecto estructura\list.c
+	"list.h"
+	<stdlib.h>
+	<assert.h>
+
+1602556130 c:\users\melil\desktop\proyecto estructura\list.h
+	<stdlib.h>
+	<stdio.h>
+
+1607460471 source:c:\users\melil\desktop\proyecto estructura\main.c
+	<stdio.h>
+	<stdlib.h>
+	"hashmap.h"
+	<string.h>
+	"list.h"
+
+1602552530 source:c:\users\pablo julio\desktop\estructura\testeo proyecto\proyecto estructura\hashmap.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+	"hashmap.h"
+
+1602552530 c:\users\pablo julio\desktop\estructura\testeo proyecto\proyecto estructura\hashmap.h
+
+1602552530 source:c:\users\pablo julio\desktop\estructura\testeo proyecto\proyecto estructura\list.c
+	"list.h"
+	<stdlib.h>
+	<assert.h>
+
+1602552530 c:\users\pablo julio\desktop\estructura\testeo proyecto\proyecto estructura\list.h
+	<stdlib.h>
+	<stdio.h>
+
+1607459542 source:c:\users\pablo julio\desktop\estructura\testeo proyecto\proyecto estructura\main.c
+	<stdio.h>
+	<stdlib.h>
+	"hashmap.h"
+	<string.h>
+	"list.h"
+
+1602552530 source:c:\users\pablo julio\desktop\estructura\backup proyetco\proyecto estructura\hashmap.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+	"hashmap.h"
+
+1602552530 c:\users\pablo julio\desktop\estructura\backup proyetco\proyecto estructura\hashmap.h
+
+1602552530 source:c:\users\pablo julio\desktop\estructura\backup proyetco\proyecto estructura\list.c
+	"list.h"
+	<stdlib.h>
+	<assert.h>
+
+1602552530 c:\users\pablo julio\desktop\estructura\backup proyetco\proyecto estructura\list.h
+	<stdlib.h>
+	<stdio.h>
+
+1607480055 source:c:\users\pablo julio\desktop\estructura\backup proyetco\proyecto estructura\main.c
+	<stdio.h>
+	<stdlib.h>
+	"hashmap.h"
+	<string.h>
+	"list.h"
+
